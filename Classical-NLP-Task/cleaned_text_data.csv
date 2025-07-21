@@ -1,0 +1,11 @@
+label,message
+spam,"Free contest entry, apply now. Congratulations, you've won the lottery!"
+ham,"Hey, are we meeting tomorrow? I'll call you in 10 minutes."
+spam,Get rice quick with this scheme. Click here to claim your prize
+ham,Are you free this weekend? I'll call you in 10 minutes
+spam,Win a free iPhone now. Win a free iPhone now
+ham,Let's have lunch together. Meeting scheduled at 5 pm
+spam,Get rich quick with this scheme. Win a free iPhone now
+ham,Meeting scheduled at 5 PM. Let's have lunch together.
+spam,Click here to claim your prize. Get rich quick with this scheme
+ham,"Hey, are we meeting tomorrow? Let's have lunch together."
